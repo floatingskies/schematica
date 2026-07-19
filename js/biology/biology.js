@@ -1,6 +1,6 @@
 /* ============================================
    SCHEMATICA — Biology: Genetics, Ecology, Biochem
-   ============================================ */
+
 
 const BiologyCalculator = {
   init() {
