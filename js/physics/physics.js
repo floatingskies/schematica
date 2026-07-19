@@ -1,5 +1,5 @@
 /* ============================================
-   SCHEMATICA — Physics: Mechanics, Thermo, Electricity
+   SCHEMATICA's Physics: Mechanics, Thermo, Electricity
    ============================================ */
 
 const PhysicsCalculator = {
