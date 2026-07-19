@@ -1,11 +1,6 @@
 /* ============================================
-   SCHEMATICA — Chemistry: Advanced Calculators
-   Gas Laws, Colligative Properties, Ksp, Empirical Formula
+   SCHEMATICA, Chemistry: Advanced Calculators
    ============================================ */
-
-// ──────────────────────────────────────────────
-// 1. Gas Laws Calculator
-// ──────────────────────────────────────────────
 
 const ChemistryGasLaws = {
   init() {
