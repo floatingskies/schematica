@@ -2,13 +2,13 @@
 
 **Chemistry, Math, Physics & Biology Calculator**
 
-A comprehensive academic tool designed for students and teachers — from high school to university level. Every formula includes its source and a detailed explanation so you learn not just the answer, but **why it works**.
+A comprehensive academic tool designed for students and teachers, from high school to university level. Every formula includes its source and a detailed explanation so you learn not just the answer, but **why it works**.
 
 ---
 
 ## Features
 
-### Chemistry (11 tools)
+### Chemistry (11 tools and calculation)
 | Tool | Formula | Description |
 |------|---------|-------------|
 | Molar Mass | M = Σ(nᵢ × Mᵢ) | Calculate molar mass from any compound formula (e.g., H₂SO₄, NaCl) |
@@ -26,7 +26,7 @@ A comprehensive academic tool designed for students and teachers — from high s
 | Solubility Product | Ksp = s² (AB type) | Ksp ↔ molar solubility for AB, AB₂, A₂B |
 | Empirical Formula | % → moles → ratios | Calculate empirical formula from percent composition |
 
-### Math (10 tools)
+### Math (10 tools and formulae)
 | Tool | Formula | Description |
 |------|---------|-------------|
 | Quadratic Equation | x = (-b ± √Δ) / 2a | Real and complex roots |
@@ -56,7 +56,7 @@ A comprehensive academic tool designed for students and teachers — from high s
 | Projectile Motion | R = v₀²sin(2θ)/g | Range, max height, flight time |
 | Thin Lens Equation | 1/f = 1/dₒ + 1/dᵢ | Focal length, magnification, image type |
 
-### Biology (7 tools)
+### Biology (7 tools for your arsenal)
 | Tool | Formula | Description |
 |------|---------|-------------|
 | Punnett Square | Mendel's Laws | Genetic cross with visual grid + phenotype ratios |
@@ -67,7 +67,7 @@ A comprehensive academic tool designed for students and teachers — from high s
 | Blood Types | ABO/Rh compatibility | Donor/receiver compatibility for all 8 types |
 | BMI Calculator | BMI = weight/height² | Body mass index with category classification |
 
-### Converters (12 tools)
+### Converters (12 tools if you are a nerd)
 | Converter | Units |
 |-----------|-------|
 | Temperature | °C, °F, K |
@@ -90,19 +90,11 @@ A comprehensive academic tool designed for students and teachers — from high s
 
 ---
 
-## Languages
-
-| Language | Code | Status |
-|----------|------|--------|
-| English | EN | ✅ Complete |
-| Português Brasileiro | PT | ✅ Complete |
-| Español | ES | ✅ Complete |
-
-Switch languages instantly using the EN/PT/ES buttons in the header (desktop) or sidebar (mobile).
+## Also you can switch languages instantly using the EN/PT/ES buttons in the header (desktop) or sidebar (mobile).
 
 ---
 
-## Design
+## The design itself
 
 **Neo-Brutalist** aesthetic with:
 - Bold 3px borders with offset box shadows
@@ -114,12 +106,12 @@ Switch languages instantly using the EN/PT/ES buttons in the header (desktop) or
 
 ---
 
-## Tech Stack
+## Our tech Stack
 
-- **HTML5** — Semantic structure
-- **CSS3** — Custom properties, Grid, Flexbox, responsive media queries
-- **Vanilla JavaScript** — Zero frameworks, zero dependencies
-- **Google Fonts** — Space Grotesk, Space Mono, JetBrains Mono
+- **HTML5**, Semantic structure
+- **CSS3**, Custom properties, Grid, Flexbox, responsive media queries
+- **Vanilla JavaScript**, Zero frameworks, zero dependencies
+- **Google Fonts**, Space Grotesk, Space Mono, JetBrains Mono
 
 ---
 
@@ -160,30 +152,6 @@ schematica/
 │       ├── converters.js               # Temperature, pressure, volume, mass, concentration, energy
 │       └── converters-advanced.js      # Length, time, speed, density, area, power
 ```
-
 ---
-
-## How to Use
-
-1. **Download** and extract the `.zip` file
-2. **Open** `index.html` in any modern browser (Chrome, Firefox, Safari, Edge)
-3. No server required — works offline!
-4. Use the **sidebar** to navigate between tools
-5. Use **EN / PT / ES** buttons to switch languages
-6. Every calculator shows the **formula source** and **explanation**
-
----
-
-## Mobile Support
-
-- Full responsive design for phones and tablets
-- Collapsible sidebar with hamburger menu
-- Mobile language switcher in sidebar
-- Touch-friendly buttons and inputs
-- Horizontal scroll for periodic table
-
----
-
 ## License
-
-GPL, Free and open source for education.
+GPL, Free and open source.
